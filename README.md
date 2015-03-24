@@ -1,4 +1,4 @@
-## Unit 3: Test-Driven Development
+## Unit 3: Ruby Data Structures
 
 ### SWBATs
 + Students will be able use and manipulate Ruby’s core data structures: arrays and hashes.
