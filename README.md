@@ -1,7 +1,7 @@
 ## Unit 3: Ruby Data Structures
 
 ### SWBATs
-+ Students will be able use and manipulate Ruby’s core data structures: arrays and hashes.
++ Use and manipulate Ruby’s core data structures of arrays and hashes.
 
 ### Motivation / Why Should You Care?
 + What are things that we make lists of? Let's say we wanted to make our own bucket list. Imagine each item on the bucket list is a string that we store on an individual post-it note. If we have 20 items, we’d need 20 different post-it notes. That's a lot of post-it notes to keep track of. Ruby makes this much easier for us with its two main data types: arrays and hashes. Hashes and arrays are two different types of lists that can be used to store data like strings, floats, and integers.
