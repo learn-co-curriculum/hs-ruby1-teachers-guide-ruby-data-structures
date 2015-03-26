@@ -9,11 +9,13 @@
 ### Lesson Plan
 ARRAYS
 + Array == an ordered list that can be visualized as a two-column table. Left column is the index and the right column is the thing you’re listing (Draw on board, using bucket list as an example):
+
 | Index | Bucket List Item |
 | --- | --- |
 | 0 | Go sky diving | 
 | 1 | Visit Antarctica |
 | 2 | Climb Mt. Everest |
+
 + Notice that the index starts at 0. This is a quirk about data structures in computer science that you just have to memorize.
 + So how do we translate this table into code?
   + `[“Danny”, “Lyel”, “Victoria”, “Vanessa”]`
@@ -61,11 +63,13 @@ numbers_plus_one =
 HASHES
 + Hashes are the second data type we’re going to talk about. (Use in real life, show a screenshot of a hash from an API call.) + Hashes give context to data (a bunch of birthdays without names to associate them with mean nothing), it’s a additional data dimension. 
 + They are like two column tables. The difference is that for an array the left side of the column is the index, for hashes there is no numbered index, but there is another piece of data on the left side of the table, called the **key**.
+
 | Key | Value |
 | --- | --- |
 | “Danny” | “December 3” | 
 | “Victoria” | “December 2” |
 | “Vanessa” | "September 16” |
+
 + We use hashes when we have a piece of data tied to another piece of data. We call this a key-value pair. The key in a hash has to be unique, because it’s how we access values from the hash. 
 + We write a hash like this: `names_hash = { “Danny” => “December 3”, “Victoria” => “December 2” }`
 
