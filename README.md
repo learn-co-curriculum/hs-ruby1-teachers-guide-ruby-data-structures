@@ -41,7 +41,7 @@ ADD AND REMOVE ITEMS
 + `names.delete_at(3)` will delete the item at index 3.
 + `names.insert(2, “Dan”)` will insert the item at the index you specify in the first argument.
 + Here are some other cool methods: .length, .reverse, .sample, .sort
-+ [Mini-Lab: Manipulating arrays](https://github.com/flatiron-school-curriculum/hs-manipulating-arrays-mini-lab) (start with array and then have 10 instructions, what does array look like at the end?)
++ [Mini-Lab: Manipulating arrays](https://github.com/learn-co-curriculum/hs-manipulating-arrays-mini-lab) (start with array and then have 10 instructions, what does array look like at the end?)
   + Answer: `["Peru", "Laos", "Chad", "Cuba", "Togo", "Iraq", "Iran", "Mali", "Oman", "Fiji"]`
 
 ARRAY ITERATION
@@ -58,7 +58,7 @@ numbers_plus_one =
   + content in the `|pipes|` is the item from the array that is being iterated through - it’s like a placeholder, doesn’t really matter what it’s called but try to name it sensibly.
   + code is inside the `do` and `end` - this is what happens to each item.
 + Let’s go back to our names example. Model using `.each` to output the names with `“Our class has a student named #{name}”`
-+ [Mini-Lab - Iteration through arrays](https://github.com/flatiron-school-curriculum/hs-array-iteration-mini-lab)
++ [Mini-Lab - Iteration through arrays](https://github.com/learn-co-curriculum/hs-array-iteration-mini-lab)
 
 HASHES
 + Hashes are the second data type we’re going to talk about. (Use in real life, show a screenshot of a hash from an API call.) + Hashes give context to data (a bunch of birthdays without names to associate them with mean nothing), it’s a additional data dimension. 
@@ -92,7 +92,7 @@ names_hash.each do |key, value|
 	end
 ```
 + We can replace the key and value placeholders with anything we want, these are just placeholders. Just remember that the first one is for the key and the second is always representing the value.
-+ [Iteration with hashes Mini-Lab](https://github.com/flatiron-school-curriculum/hs-hash-iteration-mini-lab)
++ [Iteration with hashes Mini-Lab](https://github.com/learn-co-curriculum/hs-hash-iteration-mini-lab)
 
 NESTED DATA STRUCTURES
 + Hashes and Arrays can occur inside of other hashes and arrays. How do we pull individual items out if this is the case?
@@ -112,7 +112,7 @@ salad_ingredients ={
 }
 ```
 + Now how do I access “kale”?
-+ [Nested Hashes Mini-Lab](https://github.com/flatiron-school-curriculum/hs-nested-data-structures-mini-lab)
++ [Nested Hashes Mini-Lab](https://github.com/learn-co-curriculum/hs-nested-data-structures-mini-lab)
 
 REVIEW
 + Review methods, but adding in hashes and arrays.
