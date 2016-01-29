@@ -130,4 +130,4 @@ REVIEW
 ### Additional Media
 + [Here](http://bethannezink.github.io/We-Can-Work-It-Out/) is a fun blog post explaining Ruby data structures using the Beatles.
 
-<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-ruby-data-structures' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-teachers-guide-ruby-data-structures' title='Unit 3: Ruby Data Structures'>Unit 3: Ruby Data Structures</a> on Learn.co and start learning to code for free.</p>
